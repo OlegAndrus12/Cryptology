@@ -1,0 +1,11 @@
+C:\Users\andru\source\repos\Cryptology\Lab1\bin\Debug\netcoreapp3.0\Lab1Control.exe
+C:\Users\andru\source\repos\Cryptology\Lab1\bin\Debug\netcoreapp3.0\Lab1Control.deps.json
+C:\Users\andru\source\repos\Cryptology\Lab1\bin\Debug\netcoreapp3.0\Lab1Control.runtimeconfig.json
+C:\Users\andru\source\repos\Cryptology\Lab1\bin\Debug\netcoreapp3.0\Lab1Control.runtimeconfig.dev.json
+C:\Users\andru\source\repos\Cryptology\Lab1\bin\Debug\netcoreapp3.0\Lab1Control.dll
+C:\Users\andru\source\repos\Cryptology\Lab1\bin\Debug\netcoreapp3.0\Lab1Control.pdb
+C:\Users\andru\source\repos\Cryptology\Lab1\obj\Debug\netcoreapp3.0\Lab1Control.csprojAssemblyReference.cache
+C:\Users\andru\source\repos\Cryptology\Lab1\obj\Debug\netcoreapp3.0\Lab1Control.AssemblyInfoInputs.cache
+C:\Users\andru\source\repos\Cryptology\Lab1\obj\Debug\netcoreapp3.0\Lab1Control.AssemblyInfo.cs
+C:\Users\andru\source\repos\Cryptology\Lab1\obj\Debug\netcoreapp3.0\Lab1Control.dll
+C:\Users\andru\source\repos\Cryptology\Lab1\obj\Debug\netcoreapp3.0\Lab1Control.pdb

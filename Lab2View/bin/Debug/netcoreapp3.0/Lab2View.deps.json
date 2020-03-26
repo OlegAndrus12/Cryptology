@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Lab2View/1.0.0": {
+        "dependencies": {
+          "Lab2Controler": "1.0.0",
+          "Lab3": "1.0.0"
+        },
+        "runtime": {
+          "Lab2View.dll": {}
+        }
+      },
+      "Lab2Controler/1.0.0": {
+        "runtime": {
+          "Lab2Controler.dll": {}
+        }
+      },
+      "Lab3/1.0.0": {
+        "runtime": {
+          "Lab3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab2View/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab2Controler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

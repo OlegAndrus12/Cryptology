@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Lab2Controler/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Lab2Controler.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab2Controler.dll": {}
+        }
+      },
+      "Lab3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/Lab3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab2Controler/1.0.0": {
+      "type": "project",
+      "path": "../Lab2Controler/Lab2Controler.csproj",
+      "msbuildProject": "../Lab2Controler/Lab2Controler.csproj"
+    },
+    "Lab3/1.0.0": {
+      "type": "project",
+      "path": "../Lab3/Lab3.csproj",
+      "msbuildProject": "../Lab3/Lab3.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "Lab2Controler >= 1.0.0",
+      "Lab3 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\andru\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\andru\\source\\repos\\Cryptology\\Lab2View\\Lab2View.csproj",
+      "projectName": "Lab2View",
+      "projectPath": "C:\\Users\\andru\\source\\repos\\Cryptology\\Lab2View\\Lab2View.csproj",
+      "packagesPath": "C:\\Users\\andru\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andru\\source\\repos\\Cryptology\\Lab2View\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\andru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\andru\\source\\repos\\Cryptology\\Lab2Controler\\Lab2Controler.csproj": {
+              "projectPath": "C:\\Users\\andru\\source\\repos\\Cryptology\\Lab2Controler\\Lab2Controler.csproj"
+            },
+            "C:\\Users\\andru\\source\\repos\\Cryptology\\Lab3\\Lab3.csproj": {
+              "projectPath": "C:\\Users\\andru\\source\\repos\\Cryptology\\Lab3\\Lab3.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
