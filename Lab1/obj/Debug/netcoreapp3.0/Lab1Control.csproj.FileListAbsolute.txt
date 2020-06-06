@@ -9,3 +9,5 @@ C:\Users\andru\source\repos\Cryptology\Lab1\obj\Debug\netcoreapp3.0\Lab1Control.
 C:\Users\andru\source\repos\Cryptology\Lab1\obj\Debug\netcoreapp3.0\Lab1Control.AssemblyInfo.cs
 C:\Users\andru\source\repos\Cryptology\Lab1\obj\Debug\netcoreapp3.0\Lab1Control.dll
 C:\Users\andru\source\repos\Cryptology\Lab1\obj\Debug\netcoreapp3.0\Lab1Control.pdb
+C:\Users\andru\source\repos\Cryptology\Lab1\obj\Debug\netcoreapp3.0\Lab1Control.csproj.CoreCompileInputs.cache
+C:\Users\andru\source\repos\Cryptology\Lab1\obj\Debug\netcoreapp3.0\Lab1Control.genruntimeconfig.cache

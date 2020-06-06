@@ -69,7 +69,6 @@ namespace Lab3
             {
                 key = KeyWord[j % KeyWord.Length];
                 ++j;
-
                 res += (char)((int)i ^ (int)key);
 
             }

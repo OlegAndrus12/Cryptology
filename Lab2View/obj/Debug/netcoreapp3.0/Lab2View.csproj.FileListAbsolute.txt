@@ -33,3 +33,5 @@ C:\Users\andru\source\repos\Cryptology\Lab2View\obj\Debug\netcoreapp3.0\MessageB
 C:\Users\andru\source\repos\Cryptology\Lab2View\obj\Debug\netcoreapp3.0\MessageBox.baml
 C:\Users\andru\source\repos\Cryptology\Lab2View\obj\Debug\netcoreapp3.0\CipherPad.g.cs
 C:\Users\andru\source\repos\Cryptology\Lab2View\obj\Debug\netcoreapp3.0\CipherPad.baml
+C:\Users\andru\source\repos\Cryptology\Lab2View\obj\Debug\netcoreapp3.0\Lab2View.csproj.CoreCompileInputs.cache
+C:\Users\andru\source\repos\Cryptology\Lab2View\obj\Debug\netcoreapp3.0\Lab2View.genruntimeconfig.cache

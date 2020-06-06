@@ -21,3 +21,5 @@ C:\Users\andru\source\repos\Cryptology\Lab1View\obj\Debug\netcoreapp3.0\Lab1View
 C:\Users\andru\source\repos\Cryptology\Lab1View\obj\Debug\netcoreapp3.0\Lab1View.pdb
 C:\Users\andru\source\repos\Cryptology\Lab1View\obj\Debug\netcoreapp3.0\InputFilename.g.cs
 C:\Users\andru\source\repos\Cryptology\Lab1View\obj\Debug\netcoreapp3.0\InputFilename.baml
+C:\Users\andru\source\repos\Cryptology\Lab1View\obj\Debug\netcoreapp3.0\Lab1View.csproj.CoreCompileInputs.cache
+C:\Users\andru\source\repos\Cryptology\Lab1View\obj\Debug\netcoreapp3.0\Lab1View.genruntimeconfig.cache

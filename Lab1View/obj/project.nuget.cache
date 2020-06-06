@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e1QNiaWsIV2IeYsCtQDGBWaDbYy6/FCBYOh5pb4HRjS+lSmNO1IDiYDxhcHXKHhPFhztHng6maiM6Np4qMAj+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andru\\source\\repos\\Cryptology\\Lab1View\\Lab1View.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andru\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\andru\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\andru\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\andru\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
